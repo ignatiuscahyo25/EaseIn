@@ -71,7 +71,3 @@ Aplikasi *dashboard* berbasis **PyQt6** dan **PyQtGraph** untuk pemantauan siste
 3. **Upload Kode:** *Compile* dan *Upload* program menggunakan Arduino IDE. Tutup *Serial Monitor* bawaan Arduino jika sudah selesai.
 4. **Jalankan Dashboard:** Buka terminal/PowerShell PC Anda, arahkan ke folder yang sama, lalu ketik `python MotorDashboard.py`.
 5. **Mulai Pengujian:** Pilih port COM yang terdeteksi, klik **Connect**, dan cobalah memutar potensiometer atau mengubah jarak di depan sensor ultrasonik. Grafik akan langsung beraksi!
-
-```
-
-```
