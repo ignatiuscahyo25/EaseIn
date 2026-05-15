@@ -2,7 +2,7 @@
 
 Proyek ini adalah sistem pengendalian motor DC berbasis PID dengan fitur pemantauan (*telemetry*) waktu-nyata. Proyek ini mendukung dua jenis arsitektur perangkat keras: **Sistem Terdistribusi** (menggunakan komunikasi CAN Bus antar dua ESP32) dan **Sistem Terpadu** (menggunakan satu ESP32).
 
-## 🛠️ Requirements (Kebutuhan Sistem)
+## Requirements (Kebutuhan Sistem)
 
 ### Kebutuhan Perangkat Keras (Hardware)
 * Mikrokontroler ESP32 (1 atau 2 buah, tergantung arsitektur)
@@ -29,7 +29,7 @@ pip install PyQt6 pyqtgraph pyserial
 
 ---
 
-## 📂 Daftar Kode & Penjelasan Arsitektur
+## Daftar Kode & Penjelasan Arsitektur
 
 ### Arsitektur 1: Sistem Terdistribusi (CAN Bus)
 
